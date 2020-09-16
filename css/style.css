@@ -115,9 +115,11 @@ a:hover{
     .links{
         font-size: 10px;
         margin-left: 2px;
-        max-width: 262.5px;
         padding-top: 0.5px;
         padding-bottom: 0.5px;
+        text-align: center; 
+        display: table;
+        margin-top: 5px;
 
     }   
     .logo img{
@@ -139,6 +141,7 @@ a:hover{
         margin-left: 2px;
         margin-right: 2px;
     }
+
 
 
     
