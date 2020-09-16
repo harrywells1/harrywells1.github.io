@@ -51,12 +51,12 @@ header
     background-position: center;
     background-color: rgba(77, 146, 255, 0.75);
     margin-left: 10vw;
-    max-width: 487px;
+    display: table;
     margin-top: 30px;
     padding-top: 4px;
     padding-bottom: 4px;
     border-radius: 7.5px;
-    font-size: 16px;
+    font-size: 20px;
 
 
 
@@ -88,10 +88,10 @@ h1
     border-radius: 15px;
     padding-top: 1px;
     padding-bottom: 1px;
-    max-width: 600px;
     font-size: 45px;
     margin-left: 10vw;
     width: 575px;
+    display: table;
 
 }
 
@@ -118,7 +118,7 @@ a:hover{
         padding-top: 0.5px;
         padding-bottom: 0.5px;
         text-align: center; 
-        display: table;
+        
         margin-top: 5px;
 
     }   
