@@ -82,10 +82,9 @@ header
 h1
 {
    
-    color:whitesmoke;
-    
+    color: whitesmoke;
     text-align: center;
-    margin-top: 10vw;
+    margin-top: 1vw;
     border-radius: 15px;
     padding-top: 1px;
     padding-bottom: 1px;
@@ -95,6 +94,8 @@ h1
     display: table;
 
 }
+
+
 
 h2{
    
