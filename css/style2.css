@@ -98,10 +98,9 @@ h1
 }
 
 h2{
-    font-size: 16px;
-
-
-
+    font-size: 16px; 
+    background-color: rgba(77, 146, 255, 0.7);
+    color: beige; 
 
 }
 
