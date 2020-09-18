@@ -164,11 +164,10 @@ h4
     
 
 }
+
 h5
 {
-   
     color: whitesmoke;
-    
     text-align: center;
     margin-top: 1vw;
     border-radius: 15px;
@@ -177,6 +176,4 @@ h5
     font-size: 18px;
     margin-left: 10vw;
     width: 575px;
-    
-
 }
