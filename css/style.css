@@ -143,18 +143,12 @@ a:hover{
         margin-left: 2px;
         margin-right: 2px;
     }
-
-
-
-    
-
-
 }
 
 h3{
     
-    color: beige; 
-
+    color: whitesmoke; 
+background-color: turquoise;
     text-align: center;
     margin-top: 5vw;
     border-radius: 15px;
@@ -166,3 +160,4 @@ h3{
     
 
 }
+
