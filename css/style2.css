@@ -106,7 +106,7 @@ h2{
     border-radius: 15px;
     padding-top: 1px;
     padding-bottom: 1px;
-    font-size: 16px;
+    font-size: 25px;
     margin-left: 5vw;
     width: 900px;
     
@@ -115,7 +115,7 @@ h2{
 
 .callus
 {
-    background-color: rgba(77, 146, 255, 0.7);
+ 
     color:whitesmoke;
     text-align: center;
     border-radius: 15px;
@@ -130,7 +130,7 @@ h2{
 
 .emailus 
 {
-    background-color: rgba(77, 146, 255, 0.7);
+
     color: whitesmoke;
     text-align: center;
     border-radius: 15px;
