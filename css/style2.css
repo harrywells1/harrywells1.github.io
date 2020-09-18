@@ -189,7 +189,22 @@ a:hover{
         margin-left: 2px;
         margin-right: 2px;
     }
-
+    h3
+    {
+        
+        color: whitesmoke; 
+    background-color: turquoise;
+        text-align: center;
+        margin-top: 5vw;
+        border-radius: 15px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        font-size: 16px;
+        margin-left: 5vw;
+        width: 900px;
+        
+    
+    }
 
 
     
