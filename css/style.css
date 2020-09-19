@@ -20,17 +20,23 @@ a{
 }
 
 
+    
+
+
+
+
 body{
     font-family: Lucida Sans Unicode;
-    background-color: whitesmoke;
-    background-image: url("pic1.jpg");
-
+    background-color: beige;
+    background-image: url("/img/pic1.jpg");
     background-position: center center;
-    background-size: 100%;
+    
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: fill    ;
-
+    background-size: cover;
+    height: 100vh;
+    margin-top: 0px;
+   
     
 }
 
@@ -52,14 +58,14 @@ header
 
 .links {
     background-position: center;
-    
+    background-color: rgba(77, 146, 255, 0.75);
     margin-left: 10vw;
     display: table;
     margin-top: 30px;
     padding-top: 4px;
     padding-bottom: 4px;
     border-radius: 7.5px;
-    font-size: 25px;
+    font-size: 15px;
 
 
 
@@ -83,10 +89,11 @@ header
 
 h1
 {
-   
-    color: whitesmoke;
+    background-color: rgba(77, 146, 255, 0.7);
+    color: beige;
+    text-transform: uppercase;
     text-align: center;
-    margin-top: 1vw;
+    margin-top: 25vw;
     border-radius: 15px;
     padding-top: 1px;
     padding-bottom: 1px;
@@ -98,14 +105,32 @@ h1
 }
 
 
+h6
+{
+    background-color: rgba(77, 146, 255, 0.7);
+    color: beige;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 2vw;
+    border-radius: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 20px;
+    margin-left: 10vw;
+    width: 575px;
+    display: table;
+
+}
+
+
 
 a:link{
-    color: whitesmoke;
+    color: beige;
     
 }
 
 a:visited{
-    color:whitesmoke;
+    color: beige;
     
 }
 
@@ -144,49 +169,10 @@ a:hover{
         margin-left: 2px;
         margin-right: 2px;
     }
-}
 
 
 
-h4
-{
-   
-    color: whitesmoke;
-    
-    text-align: center;
-    margin-top: 1vw;
-    border-radius: 15px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    font-size: 15px;
-    margin-left: 10vw;
-    width: 575px;
     
 
-}
 
-h5
-{
-    color: whitesmoke;
-    text-align: center;
-    margin-top: 1vw;
-    border-radius: 15px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    font-size: 18px;
-    margin-left: 10vw;
-    width: 575px;
-}
-
-h6
-{
-    color: whitesmoke;
-    text-align: center;
-    margin-top: 1vw;
-    border-radius: 15px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    font-size: 18px;
-    margin-left: 10vw;
-    width: 575px;
 }

@@ -23,7 +23,7 @@ a{
 body{
     font-family: Lucida Sans Unicode;
     background-color: beige;
-    background-image:url("pic1.jpg") ;
+    background-image:url("/img/pic1.jpg") ;
     background-position: center center;
     background-size: 100vw;
     background-repeat: no-repeat;
