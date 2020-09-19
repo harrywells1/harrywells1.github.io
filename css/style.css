@@ -89,7 +89,7 @@ header
 
 h1
 {
-    background-color: rgba(77, 146, 255, 0.7);
+    
     color: beige;
     text-transform: uppercase;
     text-align: center;
@@ -107,7 +107,7 @@ h1
 
 h6
 {
-    background-color: rgba(77, 146, 255, 0.7);
+   
     color: beige;
     text-transform: uppercase;
     text-align: center;
@@ -169,26 +169,9 @@ a:hover{
         margin-left: 2px;
         margin-right: 2px;
     }
+}
 
-
-    -h4
-    {
-       
-        color: whitesmoke;
-        
-        text-align: center;
-        margin-top: 1vw;
-        border-radius: 15px;
-        padding-top: 1px;
-        padding-bottom: 1px;
-        font-size: 15px;
-        margin-left: 10vw;
-        width: 575px;
-        
-    
-    }
-    
-    h5
+h5
     {
         color: whitesmoke;
         text-align: center;
@@ -212,7 +195,5 @@ a:hover{
         font-size: 18px;
         margin-left: 10vw;
         width: 575px;
+    }
     
-
-
-}
