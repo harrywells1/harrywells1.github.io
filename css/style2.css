@@ -99,7 +99,7 @@ h1
 
 h2{
    
-    color: red; 
+    color:whitesmoke; 
 
     text-align: center;
     margin-top: 1vw;
@@ -116,7 +116,7 @@ h2{
 .callus
 {
  
-    color:red;
+    color: whitesmoke;
     text-align: center;
     margin-top: 1vw;
     border-radius: 40px;
@@ -132,7 +132,7 @@ h2{
 .emailus 
 {
 
-    color: red;
+    color: whitesmoke;
     text-align: center;
     border-radius: 15px;
     padding-bottom: 1px;
