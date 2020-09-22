@@ -144,6 +144,22 @@ h2{
 
 }
 
+h3
+    {
+        
+        color: whitesmoke; 
+        text-align: center;
+        margin-top: 5vw;
+        border-radius: 15px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        font-size: 20px;
+        margin-left: 20vw;
+        width: 900px;
+        
+    
+    }
+
 
 
 a:link{
@@ -194,19 +210,3 @@ a:hover{
     
 
 }
-
-h3
-    {
-        
-        color: whitesmoke; 
-        text-align: center;
-        margin-top: 5vw;
-        border-radius: 15px;
-        padding-top: 1px;
-        padding-bottom: 1px;
-        font-size: 20px;
-        margin-left: 5vw;
-        width: 900px;
-        
-    
-    }
