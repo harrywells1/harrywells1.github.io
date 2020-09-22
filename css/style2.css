@@ -92,10 +92,7 @@ h1
     margin-left: 15vw;
     width: 900px;
     display: table;
-<<<<<<< HEAD
-   
-=======
->>>>>>> parent of 2a99a61... Changed background color to black
+    
 
 }
 
@@ -112,18 +109,8 @@ h2{
     padding-bottom: 1px;
     font-size: 40px;
     margin-left: 8vw;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    width: 350px;
-    background-color: black;
-=======
-    width: 400px;
-   
->>>>>>> parent of 93724b5... Revert "got rid of black background"
-=======
     width: 900px;
-    display: table
->>>>>>> parent of 2a99a61... Changed background color to black
+   
     
 
 }
@@ -139,12 +126,9 @@ h2{
     padding-bottom: 1px;
     font-size: 25px;
     margin-left: 8vw;
-    width: 350px;
+    width: 900px;
     display: table;  
-<<<<<<< HEAD
-   
-=======
->>>>>>> parent of 2a99a61... Changed background color to black
+    
 
 }
 
@@ -157,12 +141,9 @@ h2{
     padding-bottom: 1px;
     font-size: 40px;
     margin-left: 8vw;
-    width: 350px;
+    width: 900px;
     display: table;  
-<<<<<<< HEAD
-  
-=======
->>>>>>> parent of 2a99a61... Changed background color to black
+   
 
 }
 
@@ -178,6 +159,7 @@ h3
         font-size: 20px;
         margin-left: 16vw;
         width: 900px;
+        
         
     
     }
