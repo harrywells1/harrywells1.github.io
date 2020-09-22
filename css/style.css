@@ -43,7 +43,7 @@ body{
 footer{
     background-color: rgba(255, 0, 0, 0.733);
     display: table;
-    margin-left: 290px;
+    margin-left: 24vw;
     margin-top: 10px;
 }
 
@@ -98,7 +98,7 @@ h1
     padding-top: 1px;
     padding-bottom: 1px;
     font-size: 45px;
-    margin-left: 22vw;
+    margin-left: 24vw;
     width: 575px;
     display: table;
 
@@ -116,7 +116,7 @@ h2
     padding-top: 1px;
     padding-bottom: 1px;
     font-size: 20px;
-    margin-left: 22vw;
+    margin-left: 24vw;
     width: 575px;
     display: table;
 
