@@ -92,7 +92,7 @@ h1
     margin-left: 15vw;
     width: 900px;
     display: table;
-    background-color:red;
+    background-color: black;
 
 }
 
@@ -109,7 +109,7 @@ h2{
     padding-bottom: 1px;
     font-size: 40px;
     margin-left: 8vw;
-    width: 300px;
+    width: 350px;
     background-color: black;
     
 
@@ -126,9 +126,9 @@ h2{
     padding-bottom: 1px;
     font-size: 25px;
     margin-left: 8vw;
-    width: 300px;
+    width: 350px;
     display: table;  
-    background-color:black;
+    background-color: black;
 
 }
 
@@ -141,7 +141,7 @@ h2{
     padding-bottom: 1px;
     font-size: 40px;
     margin-left: 8vw;
-    width: 300px;
+    width: 350px;
     display: table;  
     background-color: black;
 
