@@ -92,6 +92,7 @@ h1
     margin-left: 15vw;
     width: 900px;
     display: table;
+    background-color: black;
 
 }
 
@@ -109,7 +110,7 @@ h2{
     font-size: 40px;
     margin-left: 8vw;
     width: 900px;
-    display: table
+    background-color: black;
     
 
 }
@@ -127,6 +128,7 @@ h2{
     margin-left: 8vw;
     width: 575px;
     display: table;  
+    background-color: black;
 
 }
 
@@ -141,6 +143,7 @@ h2{
     margin-left: 8vw;
     width: 575px;
     display: table;  
+    background-color: black;
 
 }
 
@@ -156,6 +159,7 @@ h3
         font-size: 20px;
         margin-left: 16vw;
         width: 900px;
+        
         
     
     }
