@@ -1,0 +1,157 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+
+a{
+    margin-top: 10px;
+    margin-right: 9px;
+    margin-left: 9px;
+    
+
+
+}
+
+.logo{
+    margin-top: 10px;
+
+}
+
+
+    
+
+
+
+
+body{
+    font-family: Lucida Sans Unicode;
+    background-color: beige;
+    background-image: url("/img/pic1.jpg");
+    background-position: center center;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    margin-top: 0px;
+   
+    
+}
+
+footer{
+    background-color: rgba(255, 0, 0, 0.733);
+    display: table;
+    margin-left: 26vw;
+    margin-top: 10px;
+}
+
+header
+{
+    
+    background-size: cover;
+    
+    
+    
+}
+
+.links {
+    background-position: center;
+   
+    margin-left: 10vw;
+    display: table;
+    margin-top: 30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 7.5px;
+    font-size: 25px;
+
+
+
+}
+
+.logo img
+{
+    width: 150px;
+        height:auto;
+    float: right;
+    border-radius: 5px;
+    margin-right: 3vw;
+}
+.body
+{
+    font-family: monospace;
+}
+
+
+
+
+h1
+{
+    
+    color: beige;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 5vw;
+    border-radius: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 45px;
+    margin-left: 24vw;
+    width: 575px;
+    display: table;
+
+}
+
+
+h2
+{
+   
+    color: beige;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 2vw;
+    border-radius: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 20px;
+    margin-left: 24vw;
+    width: 575px;
+    display: table;
+
+}
+
+
+
+@media only screen and (max-width: 750px) {
+    .links{
+        font-size: 10px;
+        margin-left: 2px;
+        padding-top: 0.5px;
+        padding-bottom: 0.5px;
+        text-align: center; 
+        
+        margin-top: 5px;
+
+    }   
+    .logo img{
+    width: 75px;
+        height:auto;
+    float: right;
+    border-radius: 5px;
+    margin-right: 3vw; }
+    h1 {
+        font-size: 25px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        max-width: 300px;
+        margin-left: 2px;
+        width: 575px;
+    }
+    a{
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+}
