@@ -122,6 +122,23 @@ h2
 
 }
 
+h3
+{
+   
+    color: beige;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10vw;
+    border-radius: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 20px;
+    margin-left: 1px;
+    width: 150px;
+    display: table;
+
+}
+
 
 
 a:link{
