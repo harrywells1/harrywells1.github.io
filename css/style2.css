@@ -206,45 +206,6 @@ a:hover{
         max-width: 300px;
         margin-left: 2px;
         width: 575px;
-
-        h2{
-   
-            color:whitesmoke; 
-        
-            text-align: center;
-            padding-top: 0px;
-            padding-bottom: 0px;
-            font-size: 40px;
-            margin-left: 2px;
-            width: 900px;
-           
-            
-        
-        }
-        
-        .callus
-        {
-         
-            color: whitesmoke;
-            text-align: center;
-            padding-top: 0px;
-            padding-bottom: 0px;
-            font-size: 25px;
-            margin-left: 2px;
-            width: 900px; 
-        }
-        
-        .emailus 
-        {
-        
-            color: whitesmoke;
-            text-align: center;
-            padding-top: 0px;
-            padding-bottom: 0px;
-            font-size: 40px;
-            margin-left: 2px;
-            width: 900px;
-        }
     }
     a{
         margin-left: 2px;
