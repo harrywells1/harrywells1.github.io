@@ -1,3 +1,5 @@
+/* Styles for Contact us */
+
 *
 {
     margin: 0;
@@ -20,31 +22,22 @@ a{
 }
 
 
-    
-
-
-
-
 body{
     font-family: Lucida Sans Unicode;
     background-color: beige;
     background-image: url("/img/pic1.jpg");
     background-position: center center;
-    
+    background-size: 100vw;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    height: 100vh;
-    margin-top: 0px;
-   
-    
-}
 
-footer{
-    background-color: rgba(255, 0, 0, 0.733);
-    display: table;
-    margin-left: 24vw;
-    margin-top: 10px;
+    
+    
+    
+    
+    
+    
 }
 
 header
@@ -58,7 +51,6 @@ header
 
 .links {
     background-position: center;
-   
     margin-left: 10vw;
     display: table;
     margin-top: 30px;
@@ -69,20 +61,6 @@ header
 
 
 
-}
-a:link{
-    color: beige;
-    
-}
-
-a:visited{
-    color: beige;
-    
-}
-
-a:hover{
-    color: beige;
-    
 }
 
 .logo img
@@ -98,23 +76,45 @@ a:hover{
     font-family: monospace;
 }
 
+
+
+
 h1
 {
    
-    color: beige;
-    text-transform: uppercase;
+    color: whitesmoke;
     text-align: center;
-    margin-top: 2vw;
+    margin-top: 1vw;
     border-radius: 15px;
     padding-top: 1px;
     padding-bottom: 1px;
     font-size: 45px;
-    margin-left: 24vw;
-    width: 575px;
+    margin-left: 15vw;
+    width: 900px;
     display: table;
+    
 
 }
 
+
+
+h2
+    {
+        
+        color: whitesmoke; 
+        text-align: center;
+        margin-top: 5vw;
+        border-radius: 15px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        font-size: 20px;
+        margin-left: 16vw;
+        width: 900px;
+        
+        
+        
+    
+    }
 h4
 {
    
@@ -133,6 +133,20 @@ h4
 }
 
 
+a:link{
+    color: beige;
+    
+}
+
+a:visited{
+    color: beige;
+    
+}
+
+a:hover{
+    color: beige;
+    
+}
 
 @media only screen and (max-width: 750px) {
     .links{
@@ -164,4 +178,6 @@ h4
         margin-left: 2px;
         margin-right: 2px;
     }
+    
+
 }
