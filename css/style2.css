@@ -20,7 +20,14 @@ a{
     margin-top: 10px;
 
 }
-
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: left;
+  }
 
 body{
     font-family: Lucida Sans Unicode;
