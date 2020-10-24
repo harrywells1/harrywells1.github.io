@@ -91,6 +91,7 @@ h1
 {
     
     color: beige;
+    background-color: rgba(76, 154, 226, 0.733);
     text-transform: uppercase;
     text-align: center;
     margin-top: 5vw;
@@ -109,6 +110,7 @@ h2
 {
    
     color: beige;
+    background-color: rgba(76, 154, 226, 0.733);
     text-transform: uppercase;
     text-align: center;
     margin-top: 2vw;
