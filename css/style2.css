@@ -79,22 +79,7 @@ header
 
 
 
-h1
-{
-   
-    color: whitesmoke;
-    text-align: center;
-    margin-top: 1vw;
-    border-radius: 15px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    font-size: 45px;
-    margin-left: 15vw;
-    width: 900px;
-    display: table;
-    
 
-}
 
 
 
@@ -185,15 +170,7 @@ a:hover{
     float: right;
     border-radius: 5px;
     margin-right: 3vw; }
-    h1 {
-        font-size: 25px;
-        padding-top: 0px;
-        padding-bottom: 0px;
-        padding-left: 0px;
-        max-width: 300px;
-        margin-left: 2px;
-        width: 575px;
-    }
+    
     a{
         margin-left: 2px;
         margin-right: 2px;
