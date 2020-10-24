@@ -40,7 +40,7 @@ body{
     
 }
 
-footer{
+h3{
     background-color: rgba(255, 0, 0, 0.733);
     display: table;
     margin-left: 26vw;
@@ -183,8 +183,18 @@ a:hover{
         margin-left: 2px;
         margin-right: 2px;
     }
+
+   
 }
 
 
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: left;
+  }
 
