@@ -175,6 +175,27 @@ a:hover{
         margin-left: 2px;
         width: 575px;
     }
+    h2 {
+        font-size: 10px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        max-width: 300px;
+        margin-left: 2px;
+        width: 575px;
+    }
+
+    h3 {
+        font-size: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        max-width: 300px;
+        margin-left: 2px;
+        width: 575px;
+
+    }
+   
     a{
         margin-left: 2px;
         margin-right: 2px;
