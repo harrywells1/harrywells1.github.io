@@ -30,23 +30,13 @@ body{
     background-size: 100vw;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
-
-    
-    
-    
-    
-    
-    
+    background-size: cover;    
 }
 
 header
 {
     
-    background-size: cover;
-    
-    
-    
+    background-size: cover;    
 }
 
 .links {
@@ -58,8 +48,6 @@ header
     padding-bottom: 4px;
     border-radius: 7.5px;
     font-size: 25px;
-
-
 
 }
 
@@ -99,22 +87,18 @@ h1
 
 
 h2
-    {
+ {
         
-        color: whitesmoke; 
-        text-align: center;
-        margin-top: 5vw;
-        border-radius: 15px;
-        padding-top: 1px;
-        padding-bottom: 1px;
-        font-size: 20px;
-        margin-left: 16vw;
-        width: 900px;
-        
-        
-        
-    
-    }
+    color: whitesmoke; 
+    text-align: center;
+    margin-top: 5vw;
+    border-radius: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 20px;
+    margin-left: 16vw;
+     width: 900px;
+}
 h4
 {
    
