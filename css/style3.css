@@ -78,7 +78,6 @@ body{
   height: 75%;
   width: 75%;
 }
-
 @media only screen and (max-width: 750px) {
     .links{
         font-size: 14px;
@@ -89,41 +88,45 @@ body{
         
         margin-top: 5px;
 
-    }   
+    }  
+    
+    .footer {
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: left;
+      }
     .logo img{
-        width: 10px;
+    width: 75px;
         height:auto;
-        float: right;
-        border-radius: 5px;
-        margin-right: 3vw; }
-   
+    float: right;
+    border-radius: 5px;
+    margin-right: 3vw; }
+    
     a{
         margin-left: 2px;
         margin-right: 2px;
     }
-    .video{
-        margin-top: 1px;
-        margin-left: 1px;
-        
-        }
-        .videowrapper {
-            position: relative;
-            padding-bottom: 56.25%;
-            height: 0;
-        }
-        
-        .videowrapper iframe {
-          position: absolute;
-          top: 10vw;
-          right: 0;
-          bottom: 0;
-          left: 10vw;
-          height: 85%;
-          width: 85%;
-        }      
+    .videowrapper {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+    }
     
-     
+    .videowrapper iframe {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 10vw;
+      height: 75%;
+      width: 75%;
+    } 
+
 }
+
+
 
 .logo img
 {
