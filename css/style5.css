@@ -100,6 +100,7 @@ h2
     font-size: 20px;
     margin-left: 16vw;
      width: 900px;
+     text-align: center;
 }
 @media only screen and (max-width: 750px) {
     .links{
@@ -135,6 +136,7 @@ h2
         max-width: 300px;
         margin-left: 2px;
         width: 575px;
+        text-align: center;
     }
    
     a{
