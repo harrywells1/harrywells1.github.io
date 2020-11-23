@@ -157,6 +157,16 @@ h2
         width: 575px;
         text-align: center;
     }
+
+    h6 {
+        font-size: 25px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        max-width: 300px;
+        margin-left: 2px;
+        width: 575px;
+    }
    
     a{
         margin-left: 2px;

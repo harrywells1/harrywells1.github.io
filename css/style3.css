@@ -107,7 +107,15 @@ body{
         margin-top: 5px;
 
     }  
-    
+    h6 {
+      font-size: 25px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      max-width: 300px;
+      margin-left: 2px;
+      width: 575px;
+  }
     .footer {
         left: 0;
         bottom: 0;
